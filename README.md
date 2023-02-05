@@ -1,0 +1,2 @@
+# japan_houjin_mapping
+国税庁が公開する法人番号とSymbolアドレスのマッピングです。
